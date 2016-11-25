@@ -1,0 +1,25 @@
+{
+  "name": "codelego/phpfox-messaging",
+  "description": "message queue interface for phpfox framework.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nam Nguyen",
+      "email": "nam.ngvan@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Phpfox\\JobQueues\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Phpfox\\JobQueues\\": "test/"
+    }
+  },
+  "require": {
+  }
+}

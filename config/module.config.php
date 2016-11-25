@@ -1,7 +1,11 @@
-Job Queues Interface
-=====================================================
+<?php
+/**
+ * service('queues') : default handle for queue name phpfox in database.
+ */
+namespace Phpfox\Messaging;
 
-```php
+use Phpfox\Log\LogContainerFactory;
+
 return [
     'log.container' => [
         'jobs.log' => [
@@ -21,4 +25,4 @@ return [
         'queues.01' => [null, 'AwsSQS', 'queue.01'],
     ],
 ];
-``` Example
+
