@@ -1,5 +1,5 @@
 {
-  "name": "codelego/phpfox-messaging",
+  "name": "codelego/neutron-messaging",
   "description": "message queue interface for phpfox framework.",
   "type": "library",
   "license": "MIT",
