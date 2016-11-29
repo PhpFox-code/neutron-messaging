@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Messaging;
+namespace Neutron\Messaging;
 
 /**
  * Class Worker
  *
- * @package Phpfox\JobQueues
+ * @package Neutron\JobQueues
  */
 class Worker
 {

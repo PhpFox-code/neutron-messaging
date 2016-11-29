@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Messaging;
+namespace Neutron\Messaging;
 
 /**
  * Class JobHandlerTrait
  *
- * @package Phpfox\JobQueues
+ * @package Neutron\JobQueues
  */
 trait JobHandlerTrait
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Phpfox\Messaging;
+namespace Neutron\Messaging;
 
 
 class SampleJobHandler implements JobHandlerInterface

@@ -2,9 +2,9 @@
 /**
  * service('queues') : default handle for queue name phpfox in database.
  */
-namespace Phpfox\Messaging;
+namespace Neutron\Messaging;
 
-use Phpfox\Log\LogContainerFactory;
+use Neutron\Log\LogContainerFactory;
 
 return [
     'log.container' => [

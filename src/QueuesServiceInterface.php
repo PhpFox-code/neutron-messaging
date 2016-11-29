@@ -1,10 +1,10 @@
 <?php
-namespace Phpfox\Messaging;
+namespace Neutron\Messaging;
 
 /**
  * Interface QueuesServiceInterface
  *
- * @package Phpfox\JobQueues
+ * @package Neutron\JobQueues
  */
 interface QueuesServiceInterface
 {
